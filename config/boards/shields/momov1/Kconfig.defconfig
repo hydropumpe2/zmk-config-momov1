@@ -1,0 +1,6 @@
+if SHIELD_MOMOV1
+
+config ZMK_KEYBOARD_NAME
+    default "momov1"
+
+    endif
